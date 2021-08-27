@@ -1,0 +1,7 @@
+bin/Debug
+obj/Debug
+obj/project.assets.json
+obj/project.nuget.cache
+obj/subdomain_routing.csproj.nuget.dgspec.json
+obj/subdomain_routing.csproj.nuget.g.props
+obj/subdomain_routing.csproj.nuget.g.targets
